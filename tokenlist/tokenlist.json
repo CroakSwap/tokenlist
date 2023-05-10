@@ -1,0 +1,36 @@
+{
+    "name": "CroakSwap Tokens",
+    "logoURI": "https://raw.githubusercontent.com/CroakSwap/tokenlist/main/token/CROAK.png",
+    "keywords": [
+        "pepechain",
+        "memes",
+        "pepe",
+        "croakswap"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 6942069,
+            "address": "0x013dc9788353b8d693a4e52262720C4b3DD52e6c",
+            "decimals": 18,
+            "name": "CroakSwap Token",
+            "symbol": "CROAK",
+            "logoURI": "https://raw.githubusercontent.com/CroakSwap/tokenlist/main/token/addresses/0x013dc9788353b8d693a4e52262720C4b3DD52e6c/logo.png"
+        },
+        {
+            "chainId": 6942069,
+            "address": "0xedaAb71370d1DaA3B34e64db4bd78BBaF877D669",
+            "decimals": 18,
+            "name": "Wrapped Pepechain",
+            "symbol": "PC",
+            "logoURI": "https://raw.githubusercontent.com/CroakSwap/tokenlist/main/token/addresses/0xedaAb71370d1DaA3B34e64db4bd78BBaF877D669/logo.png"
+        }
+
+
+    ],
+    "timestamp": "2023-05-10T12:00:00+00:00"
+}
